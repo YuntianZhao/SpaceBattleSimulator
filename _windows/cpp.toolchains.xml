@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files (x86)\Dev-Cpp\MinGW32" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
 </application>
